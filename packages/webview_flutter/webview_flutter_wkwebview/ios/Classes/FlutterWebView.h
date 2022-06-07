@@ -7,7 +7,6 @@
 
 #import "FLTCookieManager.h"
 
-NS_ASSUME_NONNULL_BEGIN
 
 /**
  * The WkWebView used for the plugin.
@@ -37,4 +36,3 @@ NS_ASSUME_NONNULL_BEGIN
                     cookieManager:(FLTCookieManager *)cookieManager;
 @end
 
-NS_ASSUME_NONNULL_END
