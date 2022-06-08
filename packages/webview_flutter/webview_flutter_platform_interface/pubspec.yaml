@@ -1,7 +1,7 @@
 name: webview_pro_platform_interface
 description: A common platform interface for the webview_flutter plugin.
-repository: https://github.com/wenzhiming/flutter-plugins/tree/main/packages/webview_flutter/webview_flutter_platform_interface
-issue_tracker: https://github.com/wenzhiming/flutter-plugins/issues
+repository: https://github.com/loregr/flutter-plugins/tree/main/packages/webview_flutter/webview_flutter_platform_interface
+issue_tracker: https://github.com/loregr/flutter-plugins/issues
 # NOTE: We strongly prefer non-breaking changes, even at the expense of a
 # less-clean API. See https://flutter.dev/go/platform-interface-breaking-changes
 version: 1.8.1+2

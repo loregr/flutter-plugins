@@ -1,7 +1,7 @@
 name: webview_pro_wkwebview
 description: A Flutter plugin that provides a WebView widget based on Apple's WKWebView control.
-repository: https://github.com/wenzhiming/flutter-plugins/tree/dev/packages/webview_flutter/webview_flutter_wkwebview
-issue_tracker: https://github.com/wenzhiming/flutter-plugins/issues
+repository: https://github.com/loregr/flutter-plugins/tree/android_file_uploader/packages/webview_flutter/webview_flutter_wkwebview
+issue_tracker: https://github.com/loregr/flutter-plugins/issues
 version: 2.7.1+4
 
 environment:
