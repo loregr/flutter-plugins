@@ -1,6 +1,6 @@
-framework module webview_flutter_wkwebview {
+framework module webview_pro_wkwebview {
   umbrella header "webview-umbrella.h"
-  
+
   export *
   module * { export * }
 
