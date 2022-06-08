@@ -2,9 +2,9 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-#import "FLTWebViewFlutterPlugin.h"
-#import "FLTCookieManager.h"
-#import "FlutterWebView.h"
+#import <webview_pro_wkwebview/FLTWebViewFlutterPlugin.h>
+#import <webview_pro_wkwebview/FLTCookieManager.h>
+#import <webview_pro_wkwebview/FlutterWebView.h>
 
 @implementation FLTWebViewFlutterPlugin
 

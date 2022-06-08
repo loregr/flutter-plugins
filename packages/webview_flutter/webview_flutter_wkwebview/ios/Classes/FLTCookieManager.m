@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-#import "FLTCookieManager.h"
+#import <webview_pro_wkwebview/FLTCookieManager.h>
 #import "FLTCookieManager_Test.h"
 
 @implementation FLTCookieManager {
