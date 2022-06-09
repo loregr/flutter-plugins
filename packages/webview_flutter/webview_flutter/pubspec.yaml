@@ -22,10 +22,7 @@ dependencies:
   webview_pro_android: ^2.8.3+2
   webview_pro_platform_interface: ^1.8.1+2
   webview_pro_wkwebview:
-    git:
-      url: https://github.com/loregr/flutter-plugins.git
-      ref: android_file_uploader
-      path: packages/webview_flutter/webview_flutter_wkwebview
+    path: ../webview_flutter_wkwebview
 
 dev_dependencies:
   build_runner: ^2.1.5
